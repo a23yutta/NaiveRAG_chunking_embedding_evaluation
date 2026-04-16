@@ -5,8 +5,6 @@ from llama_index.core import VectorStoreIndex
 from chunking_config import CHUNKING_FILES, load_chunk_json
 from embedding_config import get_embedding_model
 
-os.environ["OPENAI_API_KEY"] = "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"
-
 # ==============================
 #       INDEX BUILDING
 # ==============================

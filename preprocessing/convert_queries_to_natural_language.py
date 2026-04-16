@@ -3,7 +3,6 @@ import os
 from openai import OpenAI
 from tqdm import tqdm
 
-os.environ["OPENAI_API_KEY"] = "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"
 client = OpenAI()
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
