@@ -227,7 +227,7 @@
       },
       {
         "text": "t to appropriate safeguards for the protection of personal data and other fundamental rights and freedoms;",
-        "score": 0.5536465238665376,
+        "score": 0.5535983688419984,
         "metadata": {
           "article_id": 24,
           "article_number": "50",
@@ -604,18 +604,16 @@
         }
       },
       {
-        "text": "(f) processed in a manner that ensures appropriate security of the personal data, including protection against unauthorised or unlawful processing and against accidental loss, destruction or damage, using appropriate technical or organisational measures (‘",
-        "score": 0.5805337468126313,
+        "text": "n applies to the amount of personal data collected, the extent of their processing, the period of their storage and their accessibility. In particular, such measures shall ensure that by default personal data are not made accessible without the individual'",
+        "score": 0.581148673293391,
         "metadata": {
-          "article_id": 3,
-          "article_number": "5",
-          "paragraph_id": "p1",
-          "subpoint_ids": [
-            "sf"
-          ],
-          "citation": "Art. 5(1)(sf)",
-          "chunk_id": "token_17",
-          "chunk_index": 0
+          "article_id": 12,
+          "article_number": "25",
+          "paragraph_id": "p2",
+          "subpoint_ids": [],
+          "citation": "Art. 25(2)",
+          "chunk_id": "token_68",
+          "chunk_index": 1
         }
       }
     ],
@@ -1344,7 +1342,7 @@
     "retrieved": [
       {
         "text": "Where, in cases referred to in paragraph 1 of this Article, the controller is able to demonstrate that it is not in a position to identify the data subject, the controller shall inform the data subject accordingly, if possible. In such cases, Articles 15 t",
-        "score": 0.6531534925128669,
+        "score": 0.6531778800457476,
         "metadata": {
           "article_id": 6,
           "article_number": "11",
@@ -1357,7 +1355,7 @@
       },
       {
         "text": "If the purposes for which a controller processes personal data do not or do no longer require the identification of a data subject by the controller, the controller shall not be obliged to maintain, acquire or process additional information in order to ide",
-        "score": 0.6405935672168457,
+        "score": 0.6406222734600546,
         "metadata": {
           "article_id": 6,
           "article_number": "11",
@@ -1370,7 +1368,7 @@
       },
       {
         "text": "onal information in order to identify the data subject for the sole purpose of complying with this Regulation.",
-        "score": 0.6404535135871811,
+        "score": 0.6404953034769956,
         "metadata": {
           "article_id": 6,
           "article_number": "11",
@@ -1383,7 +1381,7 @@
       },
       {
         "text": "le. In such cases, Articles 15 to 20 shall not apply except where the data subject, for the purpose of exercising his or her rights under those articles, provides additional information enabling his or her identification.",
-        "score": 0.6094006308721831,
+        "score": 0.6094238711037869,
         "metadata": {
           "article_id": 6,
           "article_number": "11",
@@ -1396,7 +1394,7 @@
       },
       {
         "text": "This Regulation applies to the processing of personal data by a controller not established in the Union, but in a place where Member State law applies by virtue of public international law.",
-        "score": 0.5377680391467049,
+        "score": 0.5377724891201852,
         "metadata": {
           "article_id": 2,
           "article_number": "3",
@@ -1566,7 +1564,7 @@
       },
       {
         "text": "n applies to the amount of personal data collected, the extent of their processing, the period of their storage and their accessibility. In particular, such measures shall ensure that by default personal data are not made accessible without the individual'",
-        "score": 0.5921654991830569,
+        "score": 0.5931370598008441,
         "metadata": {
           "article_id": 12,
           "article_number": "25",
@@ -1777,7 +1775,7 @@
       },
       {
         "text": "feguards, and on condition that enforceable data subject rights and effective legal remedies for data subjects are available.",
-        "score": 0.5665228972612093,
+        "score": 0.5663674355076277,
         "metadata": {
           "article_id": 22,
           "article_number": "46",
@@ -1805,7 +1803,7 @@
       },
       {
         "text": "t to appropriate safeguards for the protection of personal data and other fundamental rights and freedoms;",
-        "score": 0.5516374690768053,
+        "score": 0.5512843845040231,
         "metadata": {
           "article_id": 24,
           "article_number": "50",
@@ -2681,7 +2679,7 @@
       },
       {
         "text": "n applies to the amount of personal data collected, the extent of their processing, the period of their storage and their accessibility. In particular, such measures shall ensure that by default personal data are not made accessible without the individual'",
-        "score": 0.578566718421552,
+        "score": 0.5782897184566489,
         "metadata": {
           "article_id": 12,
           "article_number": "25",
@@ -2781,7 +2779,7 @@
       },
       {
         "text": "(e) an approved code of conduct pursuant to Article 40 together with binding and enforceable commitments of the controller or processor in the third country to apply the appropriate safeguards, including as regards data subjects' rights; or",
-        "score": 0.42682004071956914,
+        "score": 0.4271063392494039,
         "metadata": {
           "article_id": 22,
           "article_number": "46",
@@ -2816,7 +2814,7 @@
     "retrieved": [
       {
         "text": "s posed by the processing, the controller shall, both at the time of the determination of the means for processing and at the time of the processing itself, implement appropriate technical and organisational measures, such as pseudonymisation, which are de",
-        "score": 0.6420148311507213,
+        "score": 0.6420963382177516,
         "metadata": {
           "article_id": 12,
           "article_number": "25",
@@ -2829,7 +2827,7 @@
       },
       {
         "text": "hnical and organisational measures to ensure and to be able to demonstrate that processing is performed in accordance with this Regulation. Those measures shall be reviewed and updated where necessary.",
-        "score": 0.6348089257207198,
+        "score": 0.6347166008114236,
         "metadata": {
           "article_id": 11,
           "article_number": "24",
@@ -2842,7 +2840,7 @@
       },
       {
         "text": "The controller shall implement appropriate technical and organisational measures for ensuring that, by default, only personal data which are necessary for each specific purpose of the processing are processed. That obligation applies to the amount of perso",
-        "score": 0.6286342071453249,
+        "score": 0.6286393605331123,
         "metadata": {
           "article_id": 12,
           "article_number": "25",
@@ -2855,7 +2853,7 @@
       },
       {
         "text": "s pseudonymisation, which are designed to implement data-protection principles, such as data minimisation, in an effective manner and to integrate the necessary safeguards into the processing in order to meet the requirements of this Regulation and protect",
-        "score": 0.5996396060546022,
+        "score": 0.5996878651525712,
         "metadata": {
           "article_id": 12,
           "article_number": "25",
@@ -2868,7 +2866,7 @@
       },
       {
         "text": "Taking into account the nature, scope, context and purposes of processing as well as the risks of varying likelihood and severity for the rights and freedoms of natural persons, the controller shall implement appropriate technical and organisational measur",
-        "score": 0.5935377794624748,
+        "score": 0.5935832218822331,
         "metadata": {
           "article_id": 11,
           "article_number": "24",
@@ -2950,7 +2948,7 @@
       },
       {
         "text": "n applies to the amount of personal data collected, the extent of their processing, the period of their storage and their accessibility. In particular, such measures shall ensure that by default personal data are not made accessible without the individual'",
-        "score": 0.6415365192678619,
+        "score": 0.6413084518373833,
         "metadata": {
           "article_id": 12,
           "article_number": "25",
@@ -3923,7 +3921,7 @@
       },
       {
         "text": "bligations of this Regulation specifically directed to processors or where it has acted outside or contrary to lawful instructions of the controller.",
-        "score": 0.5842331937290116,
+        "score": 0.582192606656833,
         "metadata": {
           "article_id": 40,
           "article_number": "82",
@@ -3936,7 +3934,7 @@
       },
       {
         "text": "The controller and the processor and, where applicable, their representatives, shall cooperate, on request, with the supervisory authority in the performance of its tasks.",
-        "score": 0.5821079151523254,
+        "score": 0.5783430482501647,
         "metadata": {
           "article_id": 16,
           "article_number": "31",
@@ -3982,7 +3980,7 @@
     "retrieved": [
       {
         "text": "The controller and the processor and, where applicable, their representatives, shall cooperate, on request, with the supervisory authority in the performance of its tasks.",
-        "score": 0.7028255967640631,
+        "score": 0.7004346605894739,
         "metadata": {
           "article_id": 16,
           "article_number": "31",
@@ -3995,7 +3993,7 @@
       },
       {
         "text": "Supervisory authorities shall provide each other with relevant information and mutual assistance in order to implement and apply this Regulation in a consistent manner, and shall put in place measures for effective cooperation with one another. Mutual assi",
-        "score": 0.5660511591357898,
+        "score": 0.5660327454434952,
         "metadata": {
           "article_id": 29,
           "article_number": "61",
@@ -4008,7 +4006,7 @@
       },
       {
         "text": "(d) to cooperate with the supervisory authority;",
-        "score": 0.558976803188357,
+        "score": 0.5590035614269039,
         "metadata": {
           "article_id": 20,
           "article_number": "39",
@@ -4023,7 +4021,7 @@
       },
       {
         "text": "In order to contribute to the consistent application of this Regulation throughout the Union, the supervisory authorities shall cooperate with each other and, where relevant, with the Commission, through the consistency mechanism as set out in this Section",
-        "score": 0.5554502104109765,
+        "score": 0.5568902113635674,
         "metadata": {
           "article_id": 30,
           "article_number": "63",
@@ -4036,7 +4034,7 @@
       },
       {
         "text": "(e) to act as the contact point for the supervisory authority on issues relating to processing, including the prior consultation referred to in Article 36, and to consult, where appropriate, with regard to any other matter.",
-        "score": 0.5506951542985289,
+        "score": 0.5507251535129056,
         "metadata": {
           "article_id": 20,
           "article_number": "39",
@@ -4269,7 +4267,7 @@
       },
       {
         "text": "Taking into account the state of the art, the costs of implementation and the nature, scope, context and purposes of processing as well as the risk of varying likelihood and severity for the rights and freedoms of natural persons, the controller and the pr",
-        "score": 0.5900272257320482,
+        "score": 0.5902525912076336,
         "metadata": {
           "article_id": 17,
           "article_number": "32",
@@ -4366,7 +4364,7 @@
       },
       {
         "text": "(e) an approved code of conduct pursuant to Article 40 together with binding and enforceable commitments of the controller or processor in the third country to apply the appropriate safeguards, including as regards data subjects' rights; or",
-        "score": 0.46337206455178204,
+        "score": 0.4635938603339292,
         "metadata": {
           "article_id": 22,
           "article_number": "46",
@@ -5842,7 +5840,7 @@
     "retrieved": [
       {
         "text": "this Regulation, the conditions laid down in this Chapter are complied with by the controller and processor, including for onward transfers of personal data from the third country or an international organisation to another third country or to another inte",
-        "score": 0.6846158852256481,
+        "score": 0.6834414482606721,
         "metadata": {
           "article_id": 21,
           "article_number": "44",
@@ -5992,7 +5990,7 @@
       },
       {
         "text": "feguards, and on condition that enforceable data subject rights and effective legal remedies for data subjects are available.",
-        "score": 0.631206728288722,
+        "score": 0.6311964564319569,
         "metadata": {
           "article_id": 22,
           "article_number": "46",
@@ -6065,7 +6063,7 @@
       },
       {
         "text": "(e) an approved code of conduct pursuant to Article 40 together with binding and enforceable commitments of the controller or processor in the third country to apply the appropriate safeguards, including as regards data subjects' rights; or",
-        "score": 0.6340873216086503,
+        "score": 0.6339173214660944,
         "metadata": {
           "article_id": 22,
           "article_number": "46",
@@ -6093,7 +6091,7 @@
       },
       {
         "text": "(d) standard data protection clauses adopted by a supervisory authority and approved by the Commission pursuant to the examination procedure referred to in Article 93(2);",
-        "score": 0.6171187793378722,
+        "score": 0.6171461501506336,
         "metadata": {
           "article_id": 22,
           "article_number": "46",
@@ -6108,7 +6106,7 @@
       },
       {
         "text": "(b) binding corporate rules in accordance with Article 47;",
-        "score": 0.6142414474756657,
+        "score": 0.613935842499935,
         "metadata": {
           "article_id": 22,
           "article_number": "46",
@@ -6242,7 +6240,7 @@
       },
       {
         "text": "feguards, and on condition that enforceable data subject rights and effective legal remedies for data subjects are available.",
-        "score": 0.6309586362539658,
+        "score": 0.6309599623554883,
         "metadata": {
           "article_id": 22,
           "article_number": "46",
@@ -6283,7 +6281,7 @@
       },
       {
         "text": "The appropriate safeguards referred to in paragraph 1 may be provided for, without requiring any specific authoris­ ation from a supervisory authority, by:",
-        "score": 0.6011034341467906,
+        "score": 0.6012161785432548,
         "metadata": {
           "article_id": 22,
           "article_number": "46",
@@ -6344,7 +6342,7 @@
     "retrieved": [
       {
         "text": "The supervisory authority shall apply the consistency mechanism referred to in Article 63 in the cases referred to in paragraph 3 of this Article.",
-        "score": 0.6753613351018335,
+        "score": 0.675501871028519,
         "metadata": {
           "article_id": 22,
           "article_number": "46",
@@ -6357,7 +6355,7 @@
       },
       {
         "text": "In order to contribute to the consistent application of this Regulation throughout the Union, the supervisory authorities shall cooperate with each other and, where relevant, with the Commission, through the consistency mechanism as set out in this Section",
-        "score": 0.5791582993163679,
+        "score": 0.5805963686826014,
         "metadata": {
           "article_id": 30,
           "article_number": "63",
@@ -6431,7 +6429,7 @@
     "retrieved": [
       {
         "text": "Authorisations by a Member State or supervisory authority on the basis of Article 26(2) of Directive 95/46/EC shall remain valid until amended, replaced or repealed, if necessary, by that supervisory authority. Decisions adopted by the Commission on the ba",
-        "score": 0.6417999494299848,
+        "score": 0.6421604346243577,
         "metadata": {
           "article_id": 22,
           "article_number": "46",
@@ -6444,7 +6442,7 @@
       },
       {
         "text": "The appropriate safeguards referred to in paragraph 1 may be provided for, without requiring any specific authoris­ ation from a supervisory authority, by:",
-        "score": 0.5598264140357792,
+        "score": 0.5598952550723432,
         "metadata": {
           "article_id": 22,
           "article_number": "46",
@@ -6470,7 +6468,7 @@
       },
       {
         "text": "(d) standard data protection clauses adopted by a supervisory authority and approved by the Commission pursuant to the examination procedure referred to in Article 93(2);",
-        "score": 0.5341303141000184,
+        "score": 0.5339748935773007,
         "metadata": {
           "article_id": 22,
           "article_number": "46",
@@ -6543,7 +6541,7 @@
       },
       {
         "text": "nner if based on an international agreement, such as a mutual legal assistance treaty, in force between the requesting third country and the Union or a Member State, without prejudice to other grounds for transfer pursuant to this Chapter.",
-        "score": 0.6135958422658597,
+        "score": 0.6135573337741742,
         "metadata": {
           "article_id": 23,
           "article_number": "48",
@@ -6629,7 +6627,7 @@
     "retrieved": [
       {
         "text": "(c) engage relevant stakeholders in discussion and activities aimed at furthering international cooperation in the enforcement of legislation for the protection of personal data;",
-        "score": 0.6140516473053169,
+        "score": 0.6140660812961065,
         "metadata": {
           "article_id": 24,
           "article_number": "50",
@@ -6644,7 +6642,7 @@
       },
       {
         "text": "(b) provide international mutual assistance in the enforcement of legislation for the protection of personal data, including through notification, complaint referral, investigative assistance and information exchange, subject to appropriate safeguards for",
-        "score": 0.6047399520865411,
+        "score": 0.6046959157158742,
         "metadata": {
           "article_id": 24,
           "article_number": "50",
@@ -6659,7 +6657,7 @@
       },
       {
         "text": "(d) promote the exchange and documentation of personal data protection legislation and practice, including on jurisdic­ tional conflicts with third countries.",
-        "score": 0.5957328251020062,
+        "score": 0.595706315138493,
         "metadata": {
           "article_id": 24,
           "article_number": "50",
@@ -6674,7 +6672,7 @@
       },
       {
         "text": "(a) develop international cooperation mechanisms to facilitate the effective enforcement of legislation for the protection of personal data;",
-        "score": 0.5929275998019093,
+        "score": 0.5929467180353593,
         "metadata": {
           "article_id": 24,
           "article_number": "50",
@@ -6689,7 +6687,7 @@
       },
       {
         "text": "In relation to third countries and international organisations, the Commission and supervisory authorities shall take appropriate steps to:",
-        "score": 0.5783865218612869,
+        "score": 0.5783307441221799,
         "metadata": {
           "article_id": 24,
           "article_number": "50",
@@ -6792,7 +6790,7 @@
     "retrieved": [
       {
         "text": "The member or members of each supervisory authority shall, in the performance of their tasks and exercise of their powers in accordance with this Regulation, remain free from external influence, whether direct or indirect, and shall neither seek nor take i",
-        "score": 0.6941475008162067,
+        "score": 0.6941571339780624,
         "metadata": {
           "article_id": 25,
           "article_number": "52",
@@ -6818,7 +6816,7 @@
       },
       {
         "text": "Each Member State shall ensure that each supervisory authority is subject to financial control which does not affect its independence and that it has separate, public annual budgets, which may be part of the overall state or national budget.",
-        "score": 0.6467736281966081,
+        "score": 0.6468971313644346,
         "metadata": {
           "article_id": 25,
           "article_number": "52",
@@ -6831,7 +6829,7 @@
       },
       {
         "text": "Each Member State shall ensure that each supervisory authority chooses and has its own staff which shall be subject to the exclusive direction of the member or members of the supervisory authority concerned.",
-        "score": 0.6376845324313717,
+        "score": 0.637256861558183,
         "metadata": {
           "article_id": 25,
           "article_number": "52",
@@ -6844,7 +6842,7 @@
       },
       {
         "text": "Member or members of each supervisory authority shall refrain from any action incompatible with their duties and shall not, during their term of office, engage in any incompatible occupation, whether gainful or not.",
-        "score": 0.6199485291256314,
+        "score": 0.6203198975260272,
         "metadata": {
           "article_id": 25,
           "article_number": "52",
@@ -6877,7 +6875,7 @@
     "retrieved": [
       {
         "text": "The member or members of each supervisory authority shall, in the performance of their tasks and exercise of their powers in accordance with this Regulation, remain free from external influence, whether direct or indirect, and shall neither seek nor take i",
-        "score": 0.6906591181532378,
+        "score": 0.6906780631455756,
         "metadata": {
           "article_id": 25,
           "article_number": "52",
@@ -6890,7 +6888,7 @@
       },
       {
         "text": "Member or members of each supervisory authority shall refrain from any action incompatible with their duties and shall not, during their term of office, engage in any incompatible occupation, whether gainful or not.",
-        "score": 0.6824628939039691,
+        "score": 0.6827126367333515,
         "metadata": {
           "article_id": 25,
           "article_number": "52",
@@ -6916,7 +6914,7 @@
       },
       {
         "text": "Each Member State shall ensure that each supervisory authority chooses and has its own staff which shall be subject to the exclusive direction of the member or members of the supervisory authority concerned.",
-        "score": 0.6453054040542006,
+        "score": 0.644918859753423,
         "metadata": {
           "article_id": 25,
           "article_number": "52",
@@ -6974,7 +6972,7 @@
     "retrieved": [
       {
         "text": "Member or members of each supervisory authority shall refrain from any action incompatible with their duties and shall not, during their term of office, engage in any incompatible occupation, whether gainful or not.",
-        "score": 0.7280301680941035,
+        "score": 0.7282577744267569,
         "metadata": {
           "article_id": 25,
           "article_number": "52",
@@ -7002,7 +7000,7 @@
       },
       {
         "text": "Each Member State shall ensure that each supervisory authority chooses and has its own staff which shall be subject to the exclusive direction of the member or members of the supervisory authority concerned.",
-        "score": 0.5866943468932266,
+        "score": 0.5865737126382847,
         "metadata": {
           "article_id": 25,
           "article_number": "52",
@@ -7015,7 +7013,7 @@
       },
       {
         "text": "The member or members of each supervisory authority shall, in the performance of their tasks and exercise of their powers in accordance with this Regulation, remain free from external influence, whether direct or indirect, and shall neither seek nor take i",
-        "score": 0.5856009562849793,
+        "score": 0.5855875855204423,
         "metadata": {
           "article_id": 25,
           "article_number": "52",
@@ -7074,7 +7072,7 @@
       },
       {
         "text": "Each Member State shall ensure that each supervisory authority is subject to financial control which does not affect its independence and that it has separate, public annual budgets, which may be part of the overall state or national budget.",
-        "score": 0.6136895467348472,
+        "score": 0.6137439942525841,
         "metadata": {
           "article_id": 25,
           "article_number": "52",
@@ -7087,7 +7085,7 @@
       },
       {
         "text": "Each Member State shall ensure that each supervisory authority chooses and has its own staff which shall be subject to the exclusive direction of the member or members of the supervisory authority concerned.",
-        "score": 0.6032297747972427,
+        "score": 0.6024980967257171,
         "metadata": {
           "article_id": 25,
           "article_number": "52",
@@ -7160,7 +7158,7 @@
     "retrieved": [
       {
         "text": "Each Member State shall ensure that each supervisory authority chooses and has its own staff which shall be subject to the exclusive direction of the member or members of the supervisory authority concerned.",
-        "score": 0.6759974176395658,
+        "score": 0.6762358657660096,
         "metadata": {
           "article_id": 25,
           "article_number": "52",
@@ -7186,7 +7184,7 @@
       },
       {
         "text": "The member or members of each supervisory authority shall, in the performance of their tasks and exercise of their powers in accordance with this Regulation, remain free from external influence, whether direct or indirect, and shall neither seek nor take i",
-        "score": 0.5531200545363412,
+        "score": 0.5530857931958,
         "metadata": {
           "article_id": 25,
           "article_number": "52",
@@ -7247,7 +7245,7 @@
     "retrieved": [
       {
         "text": "Each Member State shall ensure that each supervisory authority is subject to financial control which does not affect its independence and that it has separate, public annual budgets, which may be part of the overall state or national budget.",
-        "score": 0.7477059170874324,
+        "score": 0.7477906458631729,
         "metadata": {
           "article_id": 25,
           "article_number": "52",
@@ -7260,7 +7258,7 @@
       },
       {
         "text": "The member or members of each supervisory authority shall, in the performance of their tasks and exercise of their powers in accordance with this Regulation, remain free from external influence, whether direct or indirect, and shall neither seek nor take i",
-        "score": 0.602568146604689,
+        "score": 0.6025568278894519,
         "metadata": {
           "article_id": 25,
           "article_number": "52",
@@ -7286,7 +7284,7 @@
       },
       {
         "text": "Each Member State shall ensure that each supervisory authority chooses and has its own staff which shall be subject to the exclusive direction of the member or members of the supervisory authority concerned.",
-        "score": 0.5984555045633039,
+        "score": 0.5980469748946085,
         "metadata": {
           "article_id": 25,
           "article_number": "52",
@@ -7437,7 +7435,7 @@
     "retrieved": [
       {
         "text": "Each member shall have the qualifications, experience and skills, in particular in the area of the protection of personal data, required to perform its duties and exercise its powers.",
-        "score": 0.7503960192257513,
+        "score": 0.7509884914816471,
         "metadata": {
           "article_id": 26,
           "article_number": "53",
@@ -7478,7 +7476,7 @@
       },
       {
         "text": "Each Member State shall ensure that each supervisory authority chooses and has its own staff which shall be subject to the exclusive direction of the member or members of the supervisory authority concerned.",
-        "score": 0.529242926828296,
+        "score": 0.5284032821512397,
         "metadata": {
           "article_id": 25,
           "article_number": "52",
@@ -7565,7 +7563,7 @@
       },
       {
         "text": "Member or members of each supervisory authority shall refrain from any action incompatible with their duties and shall not, during their term of office, engage in any incompatible occupation, whether gainful or not.",
-        "score": 0.49700647858542246,
+        "score": 0.49736084626709365,
         "metadata": {
           "article_id": 25,
           "article_number": "52",
@@ -7669,7 +7667,7 @@
       },
       {
         "text": "rusted with the appointment under Member State law.",
-        "score": 0.46297445589326014,
+        "score": 0.46146839712786053,
         "metadata": {
           "article_id": 26,
           "article_number": "53",
@@ -7948,7 +7946,7 @@
       },
       {
         "text": "Member or members of each supervisory authority shall refrain from any action incompatible with their duties and shall not, during their term of office, engage in any incompatible occupation, whether gainful or not.",
-        "score": 0.5844565411270963,
+        "score": 0.5852390221649577,
         "metadata": {
           "article_id": 25,
           "article_number": "52",
@@ -7961,7 +7959,7 @@
       },
       {
         "text": "Each Member State shall ensure that each supervisory authority chooses and has its own staff which shall be subject to the exclusive direction of the member or members of the supervisory authority concerned.",
-        "score": 0.5689040729926622,
+        "score": 0.5684623529930278,
         "metadata": {
           "article_id": 25,
           "article_number": "52",
@@ -8070,7 +8068,7 @@
       },
       {
         "text": "l measures necessary to ensure that they are implemented. Such penalties shall be effective, proportionate and dissuasive.",
-        "score": 0.46918379182615355,
+        "score": 0.4692563203584222,
         "metadata": {
           "article_id": 41,
           "article_number": "84",
@@ -9006,7 +9004,7 @@
     "retrieved": [
       {
         "text": "In order to contribute to the consistent application of this Regulation throughout the Union, the supervisory authorities shall cooperate with each other and, where relevant, with the Commission, through the consistency mechanism as set out in this Section",
-        "score": 0.7146514962568261,
+        "score": 0.7145160685904635,
         "metadata": {
           "article_id": 30,
           "article_number": "63",
@@ -9019,7 +9017,7 @@
       },
       {
         "text": "The supervisory authority shall apply the consistency mechanism referred to in Article 63 in the cases referred to in paragraph 3 of this Article.",
-        "score": 0.6773426199879411,
+        "score": 0.6774802199762822,
         "metadata": {
           "article_id": 22,
           "article_number": "46",
@@ -9870,7 +9868,7 @@
       },
       {
         "text": "(b) communication between the members of the Board, its Chair and the Commission;",
-        "score": 0.5247812620605793,
+        "score": 0.5248049536895296,
         "metadata": {
           "article_id": 35,
           "article_number": "75",
@@ -10015,7 +10013,7 @@
     "retrieved": [
       {
         "text": "The Board shall take decisions by a simple majority of its members, unless otherwise provided for in this Regulation.",
-        "score": 0.6529249441548335,
+        "score": 0.6523563156034752,
         "metadata": {
           "article_id": 33,
           "article_number": "72",
@@ -10028,7 +10026,7 @@
       },
       {
         "text": "The Board shall adopt its own rules of procedure by a two-thirds majority of its members and organise its own operational arrangements.",
-        "score": 0.5857737772932966,
+        "score": 0.585235587008905,
         "metadata": {
           "article_id": 33,
           "article_number": "72",
@@ -10041,7 +10039,7 @@
       },
       {
         "text": "By derogation from Article 64(3) and Article 65(2), an urgent opinion or an urgent binding decision referred to in paragraphs 2 and 3 of this Article shall be adopted within two weeks by simple majority of the members of the Board.",
-        "score": 0.5197072545606027,
+        "score": 0.519304835693973,
         "metadata": {
           "article_id": 31,
           "article_number": "66",
@@ -10054,7 +10052,7 @@
       },
       {
         "text": "The Board shall elect a chair and two deputy chairs from amongst its members by simple majority.",
-        "score": 0.5010036584705108,
+        "score": 0.5004435580935311,
         "metadata": {
           "article_id": 34,
           "article_number": "73",
@@ -10067,7 +10065,7 @@
       },
       {
         "text": "The Board shall be represented by its Chair.",
-        "score": 0.4696464985376349,
+        "score": 0.4692888328203133,
         "metadata": {
           "article_id": 32,
           "article_number": "68",
@@ -10126,7 +10124,7 @@
       },
       {
         "text": "(a) the day-to-day business of the Board;",
-        "score": 0.5622525421603575,
+        "score": 0.56220140153782,
         "metadata": {
           "article_id": 35,
           "article_number": "75",
@@ -10187,7 +10185,7 @@
     "retrieved": [
       {
         "text": "The Board shall elect a chair and two deputy chairs from amongst its members by simple majority.",
-        "score": 0.7141525455607234,
+        "score": 0.7141520874098629,
         "metadata": {
           "article_id": 34,
           "article_number": "73",
@@ -10200,7 +10198,7 @@
       },
       {
         "text": "The term of office of the Chair and of the deputy chairs shall be five years and be renewable once.",
-        "score": 0.5943660707417497,
+        "score": 0.5941866062322811,
         "metadata": {
           "article_id": 34,
           "article_number": "73",
@@ -10213,7 +10211,7 @@
       },
       {
         "text": "The secretariat shall perform its tasks exclusively under the instructions of the Chair of the Board.",
-        "score": 0.5384486969433006,
+        "score": 0.5389973035062755,
         "metadata": {
           "article_id": 35,
           "article_number": "75",
@@ -10226,7 +10224,7 @@
       },
       {
         "text": "The Board shall adopt its own rules of procedure by a two-thirds majority of its members and organise its own operational arrangements.",
-        "score": 0.5188662137822231,
+        "score": 0.519079387828638,
         "metadata": {
           "article_id": 33,
           "article_number": "72",
@@ -10239,7 +10237,7 @@
       },
       {
         "text": "The Board shall be represented by its Chair.",
-        "score": 0.5157141839912844,
+        "score": 0.5159488673099795,
         "metadata": {
           "article_id": 32,
           "article_number": "68",
@@ -10272,7 +10270,7 @@
     "retrieved": [
       {
         "text": "The term of office of the Chair and of the deputy chairs shall be five years and be renewable once.",
-        "score": 0.6969002748792151,
+        "score": 0.6969677945738199,
         "metadata": {
           "article_id": 34,
           "article_number": "73",
@@ -10581,7 +10579,7 @@
       },
       {
         "text": "Each Member State shall ensure that each supervisory authority chooses and has its own staff which shall be subject to the exclusive direction of the member or members of the supervisory authority concerned.",
-        "score": 0.5686843659144889,
+        "score": 0.5682588122796666,
         "metadata": {
           "article_id": 25,
           "article_number": "52",
@@ -11021,7 +11019,7 @@
       },
       {
         "text": "(b) communication between the members of the Board, its Chair and the Commission;",
-        "score": 0.5427548276900762,
+        "score": 0.5428318515987356,
         "metadata": {
           "article_id": 35,
           "article_number": "75",
@@ -11108,7 +11106,7 @@
       },
       {
         "text": "(b) communication between the members of the Board, its Chair and the Commission;",
-        "score": 0.5291892758520358,
+        "score": 0.5292708088712197,
         "metadata": {
           "article_id": 35,
           "article_number": "75",
@@ -11194,19 +11192,6 @@
         }
       },
       {
-        "text": "feguards, and on condition that enforceable data subject rights and effective legal remedies for data subjects are available.",
-        "score": 0.580287287593378,
-        "metadata": {
-          "article_id": 22,
-          "article_number": "46",
-          "paragraph_id": "p1",
-          "subpoint_ids": [],
-          "citation": "Art. 46(1)",
-          "chunk_id": "token_131",
-          "chunk_index": 1
-        }
-      },
-      {
         "text": "supervisory authority which is competent pursuant to Article 77 and to exercise the rights referred to in Articles 78 and 79 if it considers that the rights of a data subject under this Regulation have been infringed as a result of the processing.",
         "score": 0.5796753130549684,
         "metadata": {
@@ -11216,6 +11201,19 @@
           "subpoint_ids": [],
           "citation": "Art. 80(2)",
           "chunk_id": "token_245",
+          "chunk_index": 1
+        }
+      },
+      {
+        "text": "feguards, and on condition that enforceable data subject rights and effective legal remedies for data subjects are available.",
+        "score": 0.5792235902168282,
+        "metadata": {
+          "article_id": 22,
+          "article_number": "46",
+          "paragraph_id": "p1",
+          "subpoint_ids": [],
+          "citation": "Art. 46(1)",
+          "chunk_id": "token_131",
           "chunk_index": 1
         }
       },
@@ -11608,7 +11606,7 @@
       },
       {
         "text": "Where those proceedings are pending at first instance, any court other than the court first seized may also, on the application of one of the parties, decline jurisdiction if the court first seized has jurisdiction over the actions in question and its law",
-        "score": 0.5157398479421029,
+        "score": 0.5162001235202924,
         "metadata": {
           "article_id": 39,
           "article_number": "81",
@@ -11621,7 +11619,7 @@
       },
       {
         "text": "Court proceedings for exercising the right to receive compensation shall be brought before the courts competent under the law of the Member State referred to in Article 79(2).",
-        "score": 0.49637864294201567,
+        "score": 0.4956862496511573,
         "metadata": {
           "article_id": 40,
           "article_number": "82",
@@ -11705,7 +11703,7 @@
       },
       {
         "text": "Where those proceedings are pending at first instance, any court other than the court first seized may also, on the application of one of the parties, decline jurisdiction if the court first seized has jurisdiction over the actions in question and its law",
-        "score": 0.5209586955525914,
+        "score": 0.5212298559351877,
         "metadata": {
           "article_id": 39,
           "article_number": "81",
@@ -11751,7 +11749,7 @@
     "retrieved": [
       {
         "text": "Where those proceedings are pending at first instance, any court other than the court first seized may also, on the application of one of the parties, decline jurisdiction if the court first seized has jurisdiction over the actions in question and its law",
-        "score": 0.691184559026436,
+        "score": 0.6916961361467812,
         "metadata": {
           "article_id": 39,
           "article_number": "81",
@@ -11764,7 +11762,7 @@
       },
       {
         "text": "Where proceedings concerning the same subject matter as regards processing of the same controller or processor are pending in a court in another Member State, any competent court other than the court first seized may suspend its proceedings.",
-        "score": 0.5627068439221492,
+        "score": 0.562690426254424,
         "metadata": {
           "article_id": 39,
           "article_number": "81",
@@ -11777,7 +11775,7 @@
       },
       {
         "text": "shall contact that court in the other Member State to confirm the existence of such proceedings.",
-        "score": 0.5615084695404263,
+        "score": 0.5615283598381942,
         "metadata": {
           "article_id": 39,
           "article_number": "81",
@@ -11790,7 +11788,7 @@
       },
       {
         "text": "Where a competent court of a Member State has information on proceedings, concerning the same subject matter as regards processing by the same controller or processor, that are pending in a court in another Member State, it shall contact that court in the",
-        "score": 0.5538917096447855,
+        "score": 0.553849774359686,
         "metadata": {
           "article_id": 39,
           "article_number": "81",
@@ -11803,7 +11801,7 @@
       },
       {
         "text": "actions in question and its law permits the consolidation thereof.",
-        "score": 0.45688556071582653,
+        "score": 0.45695268745381185,
         "metadata": {
           "article_id": 39,
           "article_number": "81",
@@ -11861,7 +11859,7 @@
       },
       {
         "text": "ved in the same processing that part of the compensation corresponding to their part of responsibility for the damage, in accordance with the conditions set out in paragraph 2.",
-        "score": 0.602700558670556,
+        "score": 0.6021922755180052,
         "metadata": {
           "article_id": 40,
           "article_number": "82",
@@ -11874,7 +11872,7 @@
       },
       {
         "text": "Court proceedings for exercising the right to receive compensation shall be brought before the courts competent under the law of the Member State referred to in Article 79(2).",
-        "score": 0.5821679932593112,
+        "score": 0.5816807430078553,
         "metadata": {
           "article_id": 40,
           "article_number": "82",
@@ -12082,7 +12080,7 @@
       },
       {
         "text": "bligations of this Regulation specifically directed to processors or where it has acted outside or contrary to lawful instructions of the controller.",
-        "score": 0.5603894041748498,
+        "score": 0.5595617002961728,
         "metadata": {
           "article_id": 40,
           "article_number": "82",
@@ -12309,7 +12307,7 @@
     "retrieved": [
       {
         "text": "Court proceedings for exercising the right to receive compensation shall be brought before the courts competent under the law of the Member State referred to in Article 79(2).",
-        "score": 0.695220355265166,
+        "score": 0.6941164332487606,
         "metadata": {
           "article_id": 40,
           "article_number": "82",
@@ -12335,7 +12333,7 @@
       },
       {
         "text": "ved in the same processing that part of the compensation corresponding to their part of responsibility for the damage, in accordance with the conditions set out in paragraph 2.",
-        "score": 0.5456486629389216,
+        "score": 0.5459620307634071,
         "metadata": {
           "article_id": 40,
           "article_number": "82",
@@ -12407,7 +12405,7 @@
       },
       {
         "text": "l measures necessary to ensure that they are implemented. Such penalties shall be effective, proportionate and dissuasive.",
-        "score": 0.5869496476952032,
+        "score": 0.5869942111670389,
         "metadata": {
           "article_id": 41,
           "article_number": "84",
@@ -12433,7 +12431,7 @@
       },
       {
         "text": "Each Member State shall notify to the Commission the provisions of its law which it adopts pursuant to paragraph 1, by 25 May 2018 and, without delay, any subsequent amendment affecting them.",
-        "score": 0.43511001376020064,
+        "score": 0.43459762103297134,
         "metadata": {
           "article_id": 41,
           "article_number": "84",
@@ -12491,7 +12489,7 @@
     "retrieved": [
       {
         "text": "Each Member State shall notify to the Commission the provisions of its law which it adopts pursuant to paragraph 1, by 25 May 2018 and, without delay, any subsequent amendment affecting them.",
-        "score": 0.712223954220289,
+        "score": 0.7121735123763664,
         "metadata": {
           "article_id": 41,
           "article_number": "84",
@@ -12543,7 +12541,7 @@
       },
       {
         "text": "l measures necessary to ensure that they are implemented. Such penalties shall be effective, proportionate and dissuasive.",
-        "score": 0.47861781492892597,
+        "score": 0.47871509168563736,
         "metadata": {
           "article_id": 41,
           "article_number": "84",
@@ -12795,7 +12793,7 @@
       },
       {
         "text": "Each Member State shall notify to the Commission the provisions of its law which it adopts pursuant to paragraph 1, by 25 May 2018 and, without delay, any subsequent amendment affecting them.",
-        "score": 0.529411357450333,
+        "score": 0.5294345697306254,
         "metadata": {
           "article_id": 41,
           "article_number": "84",
@@ -13061,7 +13059,7 @@
     "retrieved": [
       {
         "text": "Member States may, by law or by collective agreements, provide for more specific rules to ensure the protection of the rights and freedoms in respect of the processing of employees' personal data in the employment context, in particular for the purposes of",
-        "score": 0.7346929617486236,
+        "score": 0.736502935017465,
         "metadata": {
           "article_id": 45,
           "article_number": "88",
@@ -13074,7 +13072,7 @@
       },
       {
         "text": "Those rules shall include suitable and specific measures to safeguard the data subject's human dignity, legitimate interests and fundamental rights, with particular regard to the transparency of processing, the transfer of personal data within a group of u",
-        "score": 0.6105838199915637,
+        "score": 0.6107451420602176,
         "metadata": {
           "article_id": 45,
           "article_number": "88",
@@ -13113,7 +13111,7 @@
       },
       {
         "text": "n particular for the purposes of the recruitment, the performance of the contract of employment, including discharge of obligations laid down by law or by collective agreements, management, planning and organisation of work, equality and diversity in the w",
-        "score": 0.5851122430356082,
+        "score": 0.5853576344116,
         "metadata": {
           "article_id": 45,
           "article_number": "88",
@@ -13182,7 +13180,7 @@
     "retrieved": [
       {
         "text": "Those rules shall include suitable and specific measures to safeguard the data subject's human dignity, legitimate interests and fundamental rights, with particular regard to the transparency of processing, the transfer of personal data within a group of u",
-        "score": 0.6916842901754466,
+        "score": 0.6918457841253572,
         "metadata": {
           "article_id": 45,
           "article_number": "88",
@@ -13208,7 +13206,7 @@
       },
       {
         "text": "Member States may, by law or by collective agreements, provide for more specific rules to ensure the protection of the rights and freedoms in respect of the processing of employees' personal data in the employment context, in particular for the purposes of",
-        "score": 0.5988573268195491,
+        "score": 0.5995754704751302,
         "metadata": {
           "article_id": 45,
           "article_number": "88",
@@ -13292,7 +13290,7 @@
       },
       {
         "text": "Each Member State shall notify to the Commission the provisions of its law which it adopts pursuant to paragraph 1, by 25 May 2018 and, without delay, any subsequent amendment affecting them.",
-        "score": 0.6481376988444236,
+        "score": 0.6482955962642933,
         "metadata": {
           "article_id": 41,
           "article_number": "84",
@@ -13539,7 +13537,7 @@
       },
       {
         "text": "storical research purposes or statistical purposes shall, in accordance with Article 89(1), not be considered to be incompatible with the initial purposes (‘purpose limitation’);",
-        "score": 0.5979330958723436,
+        "score": 0.5977685363978364,
         "metadata": {
           "article_id": 3,
           "article_number": "5",
@@ -13747,7 +13745,7 @@
       },
       {
         "text": "storical research purposes or statistical purposes shall, in accordance with Article 89(1), not be considered to be incompatible with the initial purposes (‘purpose limitation’);",
-        "score": 0.5883957571236227,
+        "score": 0.5881348068340674,
         "metadata": {
           "article_id": 3,
           "article_number": "5",
@@ -13879,7 +13877,7 @@
     "retrieved": [
       {
         "text": "Churches and religious associations which apply comprehensive rules in accordance with paragraph 1 of this Article shall be subject to the supervision of an independent supervisory authority, which may be specific, provided that it fulfils the conditions l",
-        "score": 0.683401832056581,
+        "score": 0.6834496144641993,
         "metadata": {
           "article_id": 47,
           "article_number": "91",
@@ -13892,7 +13890,7 @@
       },
       {
         "text": "Where in a Member State, churches and religious associations or communities apply, at the time of entry into force of this Regulation, comprehensive rules relating to the protection of natural persons with regard to processing, such rules may continue to a",
-        "score": 0.5598098405170381,
+        "score": 0.5598611604631734,
         "metadata": {
           "article_id": 47,
           "article_number": "91",
@@ -13905,7 +13903,7 @@
       },
       {
         "text": "Each supervisory authority shall act with complete independence in performing its tasks and exercising its powers in accordance with this Regulation.",
-        "score": 0.4402398607093217,
+        "score": 0.44027110969374444,
         "metadata": {
           "article_id": 25,
           "article_number": "52",
@@ -13918,7 +13916,7 @@
       },
       {
         "text": "(a) the establishment of each supervisory authority;",
-        "score": 0.4320404574720544,
+        "score": 0.4320543091527268,
         "metadata": {
           "article_id": 27,
           "article_number": "54",
@@ -13933,7 +13931,7 @@
       },
       {
         "text": "Each Member State shall ensure that each supervisory authority is subject to financial control which does not affect its independence and that it has separate, public annual budgets, which may be part of the overall state or national budget.",
-        "score": 0.4183066131282666,
+        "score": 0.4182431814087615,
         "metadata": {
           "article_id": 25,
           "article_number": "52",
@@ -14161,7 +14159,7 @@
       },
       {
         "text": "tended by three months at the initiative of the European Parliament or of the Council.",
-        "score": 0.5692300594459072,
+        "score": 0.568957635221764,
         "metadata": {
           "article_id": 48,
           "article_number": "92",
@@ -14439,7 +14437,7 @@
     "retrieved": [
       {
         "text": "The Commission shall be assisted by a committee. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.",
-        "score": 0.6673995255242532,
+        "score": 0.6673913803787597,
         "metadata": {
           "article_id": 49,
           "article_number": "93",
@@ -14550,7 +14548,7 @@
       },
       {
         "text": "The Commission shall be assisted by a committee. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.",
-        "score": 0.5357225460512894,
+        "score": 0.5357842068456813,
         "metadata": {
           "article_id": 49,
           "article_number": "93",
@@ -14635,7 +14633,7 @@
       },
       {
         "text": "The Commission shall be assisted by a committee. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.",
-        "score": 0.527230299063541,
+        "score": 0.5273165777302896,
         "metadata": {
           "article_id": 49,
           "article_number": "93",
@@ -15029,7 +15027,7 @@
       },
       {
         "text": "Authorisations by a Member State or supervisory authority on the basis of Article 26(2) of Directive 95/46/EC shall remain valid until amended, replaced or repealed, if necessary, by that supervisory authority. Decisions adopted by the Commission on the ba",
-        "score": 0.530120310358476,
+        "score": 0.5294309569511219,
         "metadata": {
           "article_id": 22,
           "article_number": "46",
@@ -15159,7 +15157,7 @@
     "retrieved": [
       {
         "text": "(b) Chapter VII on cooperation and consistency.",
-        "score": 0.5960624510908569,
+        "score": 0.59613579312975,
         "metadata": {
           "article_id": 53,
           "article_number": "97",
@@ -15174,7 +15172,7 @@
       },
       {
         "text": "(a) Chapter V on the transfer of personal data to third countries or international organisations with particular regard to decisions adopted pursuant to Article 45(3) of this Regulation and decisions adopted on the basis of Article 25(6) of Directive 95/46",
-        "score": 0.5827702486407026,
+        "score": 0.5827812345817937,
         "metadata": {
           "article_id": 53,
           "article_number": "97",
@@ -15189,7 +15187,7 @@
       },
       {
         "text": "the data subject), Chapter IV (controller and processor), Chapter V (transfer of personal data to third countries or international organisations), Chapter VI (independent supervisory authorities), Chapter VII (cooperation and consistency) and Chapter IX (s",
-        "score": 0.5812401845791789,
+        "score": 0.5812017957320371,
         "metadata": {
           "article_id": 42,
           "article_number": "85",
@@ -15202,7 +15200,7 @@
       },
       {
         "text": "d consistency) and Chapter IX (specific data processing situations) if they are necessary to reconcile the right to the protection of personal data with the freedom of expression and information.",
-        "score": 0.5375143215299611,
+        "score": 0.5375628614861678,
         "metadata": {
           "article_id": 42,
           "article_number": "85",
@@ -15215,7 +15213,7 @@
       },
       {
         "text": "third country or to another internat­ ional organisation. All provisions in this Chapter shall be applied in order to ensure that the level of protection of natural persons guaranteed by this Regulation is not undermined.",
-        "score": 0.5361797292555844,
+        "score": 0.5361581532193975,
         "metadata": {
           "article_id": 21,
           "article_number": "44",
@@ -15577,7 +15575,7 @@
       },
       {
         "text": "Those rules shall include suitable and specific measures to safeguard the data subject's human dignity, legitimate interests and fundamental rights, with particular regard to the transparency of processing, the transfer of personal data within a group of u",
-        "score": 0.507431697171612,
+        "score": 0.5075519262184122,
         "metadata": {
           "article_id": 45,
           "article_number": "88",

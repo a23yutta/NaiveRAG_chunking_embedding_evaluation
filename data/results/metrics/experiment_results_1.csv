@@ -357,7 +357,7 @@ recursive,openai-small,36,0.5,1.0,0.6131471927654584
 recursive,openai-small,37,1.0,1.0,1.0
 recursive,openai-small,38,1.0,1.0,1.0
 recursive,openai-small,39,1.0,1.0,1.0
-recursive,openai-small,40,0.5,1.0,0.6992148198508501
+recursive,openai-small,40,0.5,1.0,0.6843515475204855
 recursive,openai-small,41,0.5,1.0,0.6131471927654584
 recursive,openai-small,42,0.5,1.0,0.6131471927654584
 recursive,openai-small,43,0.5,1.0,0.6131471927654584
@@ -376,7 +376,7 @@ recursive,openai-small,55,0.125,1.0,0.3391602052736161
 recursive,openai-small,56,1.0,1.0,1.0
 recursive,openai-small,57,0.5,1.0,0.5855700749881525
 recursive,openai-small,58,0.5,0.5,0.38685280723454163
-recursive,openai-small,59,0.5714285714285714,1.0,0.8539316501572937
+recursive,openai-small,59,0.5714285714285714,1.0,0.8687949224876582
 recursive,openai-small,60,0.3333333333333333,0.5,0.2960819109658652
 recursive,openai-small,61,1.0,1.0,1.0
 recursive,openai-small,62,0.5,1.0,0.6131471927654584
@@ -856,7 +856,7 @@ token,openai-large,58,1.0,0.5,0.6509209298071326
 token,openai-large,59,0.5714285714285714,1.0,0.830419897363192
 token,openai-large,60,0.6666666666666666,1.0,0.6713860725233041
 token,openai-large,61,1.0,1.0,1.0
-token,openai-large,62,1.0,1.0,0.8503449055347546
+token,openai-large,62,0.5,1.0,0.6131471927654584
 token,openai-large,63,1.0,1.0,1.0
 token,openai-large,64,0.8333333333333334,1.0,1.0
 token,openai-large,65,1.0,0.5,0.6309297535714575

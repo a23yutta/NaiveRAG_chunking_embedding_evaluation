@@ -220,7 +220,7 @@ sentence,openai-large,58,1.0,0.5,0.6309297535714575
 sentence,openai-large,59,0.5714285714285714,1.0,0.8539316501572937
 sentence,openai-large,60,0.3333333333333333,0.5,0.2960819109658652
 sentence,openai-large,61,1.0,1.0,1.0
-sentence,openai-large,62,1.0,1.0,0.9197207891481876
+sentence,openai-large,62,1.0,1.0,1.0
 sentence,openai-large,63,1.0,1.0,1.0
 sentence,openai-large,64,1.0,1.0,1.0
 sentence,openai-large,65,1.0,1.0,1.0
@@ -606,7 +606,7 @@ recursive,openai-large,126,0.75,1.0,0.75369761125927
 recursive,openai-large,127,1.0,1.0,1.0
 recursive,openai-large,128,1.0,1.0,1.0
 recursive,openai-large,129,1.0,1.0,1.0
-recursive,openai-large,130,0.2,1.0,0.3391602052736161
+recursive,openai-large,130,0.4,1.0,0.4703652827859579
 recursive,openai-large,131,0.3333333333333333,1.0,0.46927872602275644
 recursive,openai-large,132,1.0,1.0,1.0
 recursive,openai-large,133,0.75,1.0,0.7095272044910244
@@ -809,7 +809,7 @@ token,openai-large,11,0.5,1.0,0.6131471927654584
 token,openai-large,12,1.0,1.0,1.0
 token,openai-large,13,1.0,0.5,0.6934264036172708
 token,openai-large,14,1.0,1.0,0.8772153153380493
-token,openai-large,15,0.2,1.0,0.5531464700081437
+token,openai-large,15,0.3,1.0,0.6843515475204855
 token,openai-large,16,1.0,1.0,1.0
 token,openai-large,17,1.0,1.0,0.9197207891481876
 token,openai-large,18,1.0,1.0,1.0
