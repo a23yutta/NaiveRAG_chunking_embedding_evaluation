@@ -68,7 +68,7 @@ def run_pipeline(input_dir: Path, output_file: Path):
         ordered=True
     )
 
-    # Final sort using experimental hierarchy
+    # Final sort using experimental structure
     final = final.sort_values(["chunking", "embedding", "query_id"])
 
     # Save final aggregated dataset
