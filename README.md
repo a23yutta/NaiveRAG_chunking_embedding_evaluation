@@ -1,1 +1,1 @@
-# GraphRAG_chunking_embedding_evaluation
+# NaiveRAG_chunking_embedding_evaluation
