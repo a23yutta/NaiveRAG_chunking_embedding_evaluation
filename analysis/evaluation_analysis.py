@@ -68,21 +68,21 @@ def create_heatmaps(summary: pd.DataFrame, output_dir: Path):
 
     # Recall heatmap
     plt.figure()
-    sns.heatmap(pivot_recall, annot=True, fmt=".3f")
+    sns.heatmap(pivot_recall, annot=True, fmt=".3f", vmin=0.8, vmax=1, cmap="BuPu")
     plt.title("Recall@k Heatmap")
     plt.savefig(output_dir / "heatmap_recall.png")
     plt.close()
 
     # MRR heatmap
     plt.figure()
-    sns.heatmap(pivot_mrr, annot=True, fmt=".3f")
+    sns.heatmap(pivot_mrr, annot=True, fmt=".3f", vmin=0.8, vmax=1, cmap="BuPu")
     plt.title("MRR Heatmap")
     plt.savefig(output_dir / "heatmap_mrr.png")
     plt.close()
 
     # nDCG heatmap
     plt.figure()
-    sns.heatmap(pivot_ndcg, annot=True, fmt=".3f")
+    sns.heatmap(pivot_ndcg, annot=True, fmt=".3f", vmin=0.8, vmax=1, cmap="BuPu")
     plt.title("nDCG Heatmap")
     plt.savefig(output_dir / "heatmap_ndcg.png")
     plt.close()
