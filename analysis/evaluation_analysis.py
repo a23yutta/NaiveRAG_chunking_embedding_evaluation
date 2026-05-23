@@ -1,4 +1,5 @@
 from pathlib import Path
+from statsmodels.stats.multicomp import pairwise_tukeyhsd
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
@@ -87,39 +88,6 @@ def create_heatmaps(summary: pd.DataFrame, output_dir: Path):
     plt.close()
 
 # ===============================
-#      Interaction plots
-# ===============================
-def create_interaction_plots(summary: pd.DataFrame, output_dir: Path):
-    """
-    Interaction plots showing how chunking and embedding interact
-    across different retrieval metrics.
-
-    These are exploratory visualisations (not statistical inference).
-    """
-    metrics = [
-        ("recall_mean", "Recall@k"),
-        ("mrr_mean", "MRR"),
-        ("ndcg_mean", "nDCG@k")
-    ]
-
-    for col, title in metrics:
-        plt.figure()
-
-        sns.pointplot(
-            data=summary,
-            x="chunking",
-            y=col,
-            hue="embedding"
-        )
-
-        plt.title(f"Interaction Plot ({title})")
-        plt.ylabel(f"Mean {title}")
-
-        filename = f"interaction_plot_{col.replace('_mean','')}.png"
-        plt.savefig(output_dir / filename)
-        plt.close()
-
-# ===============================
 # Statistical inference (primary results)
 # ===============================
 def run_two_way_anova_ndcg_repeated_measures(df: pd.DataFrame, output_dir: Path):
@@ -151,6 +119,31 @@ def run_two_way_anova_ndcg_repeated_measures(df: pd.DataFrame, output_dir: Path)
 
     return anova
 
+def run_tukey_posthoc(df: pd.DataFrame, output_dir: Path):
+    """
+    Post-hoc Tukey HSD for interaction analysis.
+    Creates combined groups: chunking × embedding.
+    """
+    df = df.copy()
+    # Create interaction groups
+    df["group"] = df["chunking"] + " + " + df["embedding"]
+
+    tukey = pairwise_tukeyhsd(
+        endog=df["ndcg@k"],
+        groups=df["group"],
+        alpha=0.05
+    )
+    # Save results
+    with open(output_dir / "tukey_results.txt", "w") as f:
+        f.write(str(tukey))
+
+    tukey_df = pd.DataFrame(data=tukey.summary().data[1:], 
+                             columns=tukey.summary().data[0])
+
+    tukey_df.to_csv(output_dir / "tukey_results.csv", index=False)
+
+    return tukey
+
 # =========================
 #       MAIN PIPELINE
 # =========================
@@ -168,8 +161,8 @@ def run_pipeline(input_file: Path, output_dir: Path):
     summary = compute_summary(df)
     save_csv(summary, output_dir / "summary.csv")
     create_heatmaps(summary, output_dir)
-    create_interaction_plots(summary, output_dir)
     run_two_way_anova_ndcg_repeated_measures(df, output_dir)
+    run_tukey_posthoc(df, output_dir)
 
 
 if __name__ == "__main__":

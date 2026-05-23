@@ -1,0 +1,16 @@
+group1,group2,meandiff,p-adj,lower,upper,reject
+recursive + openai-large,recursive + openai-small,-0.0148,0.9873,-0.0799,0.0503,False
+recursive + openai-large,sentence + openai-large,0.0771,0.0098,0.012,0.1422,True
+recursive + openai-large,sentence + openai-small,0.0605,0.0857,-0.0046,0.1256,False
+recursive + openai-large,token + openai-large,0.0274,0.836,-0.0377,0.0925,False
+recursive + openai-large,token + openai-small,-0.0093,0.9986,-0.0744,0.0558,False
+recursive + openai-small,sentence + openai-large,0.0918,0.0009,0.0267,0.1569,True
+recursive + openai-small,sentence + openai-small,0.0753,0.0127,0.0102,0.1404,True
+recursive + openai-small,token + openai-large,0.0422,0.4342,-0.0229,0.1073,False
+recursive + openai-small,token + openai-small,0.0055,0.9999,-0.0596,0.0706,False
+sentence + openai-large,sentence + openai-small,-0.0166,0.9787,-0.0817,0.0485,False
+sentence + openai-large,token + openai-large,-0.0497,0.2488,-0.1148,0.0154,False
+sentence + openai-large,token + openai-small,-0.0864,0.0022,-0.1515,-0.0213,True
+sentence + openai-small,token + openai-large,-0.0331,0.6948,-0.0982,0.032,False
+sentence + openai-small,token + openai-small,-0.0698,0.0274,-0.1349,-0.0047,True
+token + openai-large,token + openai-small,-0.0367,0.5925,-0.1018,0.0284,False
