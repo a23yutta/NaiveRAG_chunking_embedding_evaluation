@@ -54,6 +54,82 @@ def compute_summary(df: pd.DataFrame) -> pd.DataFrame:
 # ===============================
 #      Heatmap visualization
 # ===============================
+def create_combined_heatmap(summary: pd.DataFrame, output_dir: Path):
+
+    heatmap_df = summary.set_index(["chunking", "embedding"])[
+        ["recall_mean", "mrr_mean", "ndcg_mean"]
+    ]
+
+    heatmap_df = heatmap_df.unstack("embedding")
+
+    # Reorder columns 
+    heatmap_df = heatmap_df[
+        [
+            ("recall_mean", "openai-small"),
+            ("mrr_mean", "openai-small"),
+            ("ndcg_mean", "openai-small"),
+            ("recall_mean", "openai-large"),
+            ("mrr_mean", "openai-large"),
+            ("ndcg_mean", "openai-large"),
+        ]
+    ]
+
+    heatmap_df.columns = [
+        "Recall",
+        "MRR",
+        "nDCG",
+        "Recall",
+        "MRR",
+        "nDCG",
+    ]
+
+    fig, ax = plt.subplots(figsize=(10, 4))
+
+    sns.heatmap(
+        heatmap_df,
+        annot=True,
+        fmt=".3f",
+        cmap="BuPu",
+        vmin=0.8,
+        vmax=1.0,
+        linewidths=0.5,
+        ax=ax
+    )
+
+    # Add embedding group titles above
+    ax.text(
+        1.5,                # center of first 3 columns
+        -0.2,               # slightly above heatmap
+        "openai-small",
+        ha="center",
+        va="center",
+        fontsize=12
+    )
+
+    ax.text(
+        4.5,             
+        -0.2,
+        "openai-large",
+        ha="center",
+        va="center",
+        fontsize=12
+    )
+
+    # Vertical separator between groups
+    ax.vlines(
+        [3],
+        *ax.get_ylim(),
+        colors="black",
+        linewidth=2
+    )
+
+    plt.title("Retrieval Performance Across Metrics", pad=40)
+
+    plt.tight_layout()
+
+    plt.savefig(output_dir / "combined_heatmap.png", dpi=300)
+    plt.close()
+    
 def create_heatmaps(summary: pd.DataFrame, output_dir: Path):
     """
     Create heatmaps for each retrieval metric.
@@ -161,6 +237,7 @@ def run_pipeline(input_file: Path, output_dir: Path):
     summary = compute_summary(df)
     save_csv(summary, output_dir / "summary.csv")
     create_heatmaps(summary, output_dir)
+    create_combined_heatmap(summary, output_dir)
     run_two_way_anova_ndcg_repeated_measures(df, output_dir)
     run_tukey_posthoc(df, output_dir)
 
